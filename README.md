@@ -1,4 +1,22 @@
-## Hi there 👋
+## Hi there 👋 here is a little about myself
+```yaml
+name: Greg Villongco
+from: Bay Area, California
+current occupation: student
+education:
+    [
+        "Las Positas College: Honors Computer Science",
+    ]
+
+fields_of_interest:
+    [
+        "Computer Science",
+        "Software Engineering",
+        "Machine Learning",
+        "Backend Engineering",
+    ]
+hobbies: volleyball, video games, rubik's cubes
+```
 
 <!--
 **gxvill/gxvill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
