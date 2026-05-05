@@ -6,6 +6,7 @@ current occupation: student
 education:
     [
         "Las Positas College: Honors Computer Science",
+        "UC Santa Barbra: Applied Math",
     ]
 
 fields_of_interest:
@@ -14,8 +15,14 @@ fields_of_interest:
         "Software Engineering",
         "Machine Learning",
         "Backend Engineering",
+        "Vocal Performance",
+        "Athletics",
     ]
 hobbies: volleyball, video games, rubik's cubes
+current_projects:
+    [
+        "anki-go"
+    ]
 ```
 
 <!--
