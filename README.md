@@ -18,7 +18,7 @@ fields_of_interest:
         "Vocal Performance",
         "Athletics",
     ]
-hobbies: volleyball, video games, rubik's cubes
+hobbies: volleyball, video games, rubik's cubes, olympic weightlifting
 current_projects:
     [
         "anki-go"
